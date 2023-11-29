@@ -6,7 +6,6 @@ import { Suspense } from 'react';
 import { RevenueChartSkeleton } from '@/app/ui/skeletons';
 import { LatestInvoicesSkeleton } from '@/app/ui/skeletons';
 import { CardsSkeleton } from '@/app/ui/skeletons';
-
 export default async function Page() {
   return (
     <main>
